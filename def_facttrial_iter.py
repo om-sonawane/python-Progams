@@ -5,7 +5,7 @@ def factorial_iter(n):
     return product
 
 def factorial_recursive(n):
-    if n == 1 or n == 0: 
+    if n == 1 or n == 1: 
         return 1 
     return n* factorial_recursive(n-1)
 
