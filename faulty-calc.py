@@ -3,8 +3,7 @@
 '''      
 45*3=555, 56+9=77,56/6=4
 
-your programm should take oprator and the two number as input from two number
-and return the result
+from practice set of code with harry ;)
 
 '''
 
