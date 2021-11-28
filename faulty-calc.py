@@ -6,7 +6,6 @@
 from practice set of code with harry ;)
 
 '''
-
 # its definitely  work without any Quary
 # making a faulty calculator+
 
