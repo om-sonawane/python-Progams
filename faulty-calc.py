@@ -8,11 +8,10 @@ from practice set of code with harry ;)
 '''
 
 # its definitely  work without any Quary
-# making a faulty calculator
+# making a faulty calculator+
 
 # taking input from the user and changing into integer
 inp1 = input("Operator")
-
 
 # taking 2nd input from user
 inp2 = input("First number")
