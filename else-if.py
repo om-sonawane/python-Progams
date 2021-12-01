@@ -1,6 +1,5 @@
 #var1=6
 #var2=56
-
 #var3=int(input())
 
 
