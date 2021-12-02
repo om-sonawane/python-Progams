@@ -4,7 +4,7 @@
 45*3=555, 56+9=77,56/6=4
 from practice set of code with harry ;)
 
-'''
+ '''
 # its definitely  work without any Quary
 # making a faulty calculator+
 # taking input from the user and changing into integer
